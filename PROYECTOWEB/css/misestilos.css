@@ -1,0 +1,87 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+.fondoNaranja {
+    background-color: cornflowerblue;
+    font-size: 15px;
+    margin-top: 5px;
+    
+} 
+
+.letraMenu {
+    font-family: 'Courier New', Courier, monospace;
+    font: bold;
+    color: white;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.imglogo {
+    width: 300px;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    margin-top: 4px;
+    
+}
+
+@media (min-width: 360px){
+    img {
+        width: 100px;
+    }
+}
+
+h1 {
+    background-color: cornflowerblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.contacto {
+    text-align: center;
+}
+
+.navegacion a:hover {
+    color: green;
+    text-align: center;
+}
+
+.auspiciadores {
+    text-align: center;
+}
+
+
+a {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.final a:hover{
+    color: green;
+}
+
+.final {
+    background-color: cornflowerblue;
+    font-size: 15px;
+    text-align: center;
+    
+}
